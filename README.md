@@ -1,78 +1,73 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Founder;Builder;Product+Engineer;In+Pursuit+of+Better" />
+  <img src="./sasibanner.png" width="100%" />
 </p>
 
-
-<div align="center">
-
-# SASIDHAR 
-
-### Founder • Builder • Product Engineer
-
-Building products at the intersection of engineering, design, and systems.
-
-**In Pursuit of Better**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Driven+by+Curiosity;Built+by+Discipline;In+Pursuit+of+Better;Keep+Building" />
+</p>
 
 ---
 
-</div>
+<h1 align="center">Sasidhar Borra</h1>
 
-# About
-
-I’m **Sasidhar Borra**, a Computer Science student and founder-minded builder from India.
-
-I care deeply about building meaningful products, designing premium digital experiences, and creating systems that solve real problems.
-
-I’m obsessed with clarity, execution, and continuous improvement.
+<h3 align="center">In Pursuit of Better</h3>
 
 ---
 
-# Areas of Interest
+# ⚡ Philosophy
 
-- Product Engineering  
-- Full Stack Systems  
-- AI-Driven Experiences  
-- Design-Led Development  
-
----
-
-# Currently Building
-
-## Cognixa  
-Rethinking engineering education through realistic simulations.
-
-## Portfolio V1  
-A digital home built around clarity and identity.
-
-## Intelligent Full Stack Systems  
-Building products end-to-end.
+> Great products are built with clarity.  
+> Great systems are built with discipline.  
+> Excellence is earned through consistency.
 
 ---
 
-# Selected Work
+# 🚀 Current Focus
 
-## 🚀 Onboard Hub  
-AI onboarding assistant for modern teams.
+- Full Stack Development  
+- Problem Solving  
+- Building Real Projects  
+- Improving Every Day  
 
-## 💸 Smart Budget Manager  
+---
+
+# 🧠 Right Now
+
+Early in the journey.
+
+Focused on growth.
+
+Committed to building better.
+
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### Onboard Hub  
+AI-powered onboarding platform for structured employee onboarding.
+
+---
+
+### Cognixa  
+Rethinking learning through realistic simulations.
+
+---
+
+### Smart Budget Manager  
 Personal finance tracking system.
 
-## 🖤 The Sasi Portfolio  
-A digital home built around identity.
-
 ---
 
-# Philosophy
-
-Great products are built with clarity.  
-
-Great systems are built with discipline.  
-
-Great companies are built by people obsessed with better.
-
----
-
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sasib2703&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
@@ -85,18 +80,16 @@ Great companies are built by people obsessed with better.
 
 ---
 
-# Connect
+# 🌐 Connect
 
 📧 Email: sasib2703@gmail.com  
 
-💼 LinkedIn: www.linkedin.com/in/sasidhar-b-79444b302
+💼 LinkedIn: www.linkedin.com/in/sasidhar-b-79444b302  
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: Coming Soon  
 
 ---
 
-<div align="center">
-
-### Keep Building ⚡
-
-</div>
+<p align="center">
+  <h3 align="center">Discipline builds what motivation cannot.</h3>
+</p>
